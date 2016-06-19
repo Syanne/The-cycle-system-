@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Система "Цикл"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="priority">приоритет</string>
+    <string name="time">время (ч:м)</string>
+    <string name="repeat" >повтор (д)</string>
+    <string name="dialog_message">Вы уверены, что хотите удалить этот элемент?</string>
+    <string name="dialog_title">Внимание!</string>
+    <string name="ok">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="hour"> ч</string>
+    <string name="date_format">dd.MM.yyyy г</string>
+    
+    <string-array name="priorities_array">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        </string-array>
+
+</resources>

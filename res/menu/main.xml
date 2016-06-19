@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.syanne.thecyclesystem.MainActivity" >
+	<item android:title=" "
+        android:id="@+id/prev"
+        android:icon="@drawable/ic_navigate_before_white_24dp"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/action_settings"
+          android:title="anApp"/>
+
+	<item android:title=" "
+        android:id="@+id/next"
+        android:icon="@drawable/ic_navigate_next_white_24dp"/>
+</menu>
